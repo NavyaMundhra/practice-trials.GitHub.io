@@ -1,0 +1,44 @@
+<html>
+<body style="background-image:url('https://cdn.freelogovectors.net/wp-content/uploads/2013/01/symphony-music-background-vector-01.jpg');">
+<h1> <center> Instrument Form </center> </h1>
+<br>
+<br>
+<form>
+<label style="color:#1A1716;font:marker felt;"> Full Name: </label>
+<input type="text" name="Full Name" value="" placeholder="*insert your full name here*">
+<br>
+<br>
+<label style="color:#1A1716;font:marker felt;"> Email: </label>
+<input type="text" name="Email" value="" placeholder="*insert your email here*">
+<br>
+<br>
+<label style="color:#1A1716;font:marker felt;"> Age: </label>
+<input type="text" name="Age" value="" placeholder="*insert your age here*">
+<br>
+<br>
+<label style="color:#1A1716;font:marker felt;"> Gender: </label>
+<br>
+<input type="radio" name="Gender" value="Male"> Male <br>
+<input type="radio" name="Gender" value="Female"> Female <br>
+<input type="radio" name="Gender" value="Other"> Other <br>
+<br>
+<br>
+<label style="color:#1A1716;font:marker felt;"> Address:  </label> <textarea> </textarea>
+<br>
+<br>
+<label style="color:#1A1716;font:marker felt;"> Instrument </label>
+<select name="Instruments">
+<option value="Piano/Keyboard"> Piano/Keyboard </option>
+<option value="Drums"> Drums </option>
+<option value="Cello"> Cello </option>
+<option value="Double Bass"> Double Bass </option>
+<option value="Violin"> Violin </option>
+<option value="Guitar"> Guitar </option>
+</select>
+<br>
+<br>
+<br>
+<input type="submit" value="Submit the Form">
+</form>
+</body>
+</html>
